@@ -1,2 +1,2 @@
-# TechDegree-project3
+# TechDegree Project 3
  my third techdegree project
